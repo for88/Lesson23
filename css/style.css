@@ -190,11 +190,11 @@
 }
 .form-form{
   margin-right: 0px;
-  flex-basis: 50%;
+  flex-basis: 55%;
   margin-top: 64px;
 }
 .form-img{
-  flex-basis: 50%;
+  flex-basis: 45%;
   background-image: url(../img/feetback-bg.jpg);
   opacity: 0.4;
 }
